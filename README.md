@@ -1,4 +1,3 @@
 # JavaScript-DOM
 
-version 9
-Response to clicks and deleting upon click
+version 10 update
