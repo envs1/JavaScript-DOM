@@ -1,4 +1,4 @@
 # JavaScript-DOM
 
-version 8
-Traversing the DOM
+version 9
+Response to clicks and deleting upon click
