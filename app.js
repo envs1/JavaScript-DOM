@@ -1,8 +1,8 @@
-const bookList = document.querySelector('#book-list');
+//Traversing the DOM
+const bookList = document.querySelector('#book-list.delete');
 
 console.log('book-list next sibling is:',bookList.nextSibling);
 console.log('book-list next element sibling is:',bookList.nextElementSibling);
-
 
 console.log('book-list previous sibling is:',bookList.previousSibling);
 console.log('book-list previous element sibling is:',bookList.previousElementSibling);
